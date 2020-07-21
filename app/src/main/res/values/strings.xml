@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CVApplication</string>
+    <string name="sample_name">Jan Nowak</string>
+    <string name="sample_role">Android Developer</string>
 </resources>
